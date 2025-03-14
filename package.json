@@ -1,0 +1,23 @@
+{
+  "name": "jsextends.github.io",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "general": "gulp general",
+    "preview": "gulp preview"
+  },
+  "keywords": [],
+  "author": "liming_longxi@163.com",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "crossnote": "^0.9.11",
+    "gulp": "^5.0.0",
+    "gulp-clean": "^0.4.0",
+    "gulp-copy": "^5.0.0",
+    "http-server": "^14.1.1",
+    "mustache": "^4.2.0",
+    "rimraf": "^6.0.1",
+    "tailwindcss": "^4.0.14"
+  }
+}
