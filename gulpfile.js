@@ -1,6 +1,8 @@
 const { task } = require("gulp");
 const { createServer } = require("http-server");
+const generalStatics = require("./job/generalStatics");
 async function general(cb) {
+  generalStatics()
   cb();
 }
 
