@@ -1,0 +1,12 @@
+{
+    "title": "得鹿梦鱼",
+    "subhead": "一个研发小伙伴的日常记录",
+    "description": "天地与我并生，而万物与我为一",
+    "law": "遇见你们，是我无尽的幸运。抬头仰望星空，我只想说，愿漫天繁星，照亮你们的每一个角落",
+    "author": "liming_longxi@163.com",
+    "outputDirectory": "./output",
+    "repos": [
+        {"name": "matrixjs", "branch": "master", "dirctory": "docs"},
+        {"name": "JI18n", "branch": "main", "dirctory": "docs"}
+    ]
+}

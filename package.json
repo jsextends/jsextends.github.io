@@ -11,11 +11,13 @@
   "license": "ISC",
   "description": "",
   "dependencies": {
-    "crossnote": "^0.9.11",
+    "canvas": "^3.1.0",
+    "crossnote": "^0.9.14",
     "gulp": "^5.0.0",
     "gulp-clean": "^0.4.0",
     "gulp-copy": "^5.0.0",
     "http-server": "^14.1.1",
+    "image-size": "^2.0.1",
     "mustache": "^4.2.0",
     "rimraf": "^6.0.1"
   },
